@@ -1,0 +1,7 @@
+START 
+INPUT student has three exam scores
+PROCESS three scores
+IF average = exam score + exam score + exam score
+THEN display result of the computed average
+DISPLAY computed average
+END
