@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Read bookstore sells notebooks
+Step 3: Input fixed price for each notebooks
+Step 4: Input the price per notebook
+Step 5: Process the quantity to be bought
+Step 6: Compute the item total
+Step 7: Display the result
+Stop
