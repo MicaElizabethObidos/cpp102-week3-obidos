@@ -5,3 +5,4 @@ Step 4: Process the price and quantity of each three item
 Step 5: Compute the total bill
 Step 6: Display the result
 Step 7: Stop
+
