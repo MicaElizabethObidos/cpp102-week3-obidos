@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Read three practical exam scorews
+Step 3: Input the three exam scores
+Step 4: Compute the average
+Step 5: Display the result
+Step 6: Stop
