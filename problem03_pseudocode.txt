@@ -1,0 +1,8 @@
+START
+INPUT fixed price for each notebook
+INPUT price per notebook
+PROCESS price per notebook x quantity bought
+IF item total = price per notebook x quantity bought
+THEN display computed item total
+DISPLAY item total = price per notebook x quantity bought
+END
