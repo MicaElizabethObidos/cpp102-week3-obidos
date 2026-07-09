@@ -1,0 +1,5 @@
+Step 1: Start
+Step 2: Read base, height
+Step 3: Process area = 1/2 (base x height)
+Step 4: Print or Disoplay area
+Step 5: Stop

@@ -10,3 +10,5 @@ List of completed Problems (Problem 1 to 10)
 
 ## REFLECTION
 It is important to understand the process in order to make a sensible flowchart, pseudocode, and algorithm. Without knowing how to solve the problem, there would be some difficulties in creating any kind of assessment. Remember to follow instructions, double check your coding, and don't forget to remember to use your time efficiently.
+
+https://github.com/MicaElizabethObidos/cpp102-week3-obidos.git

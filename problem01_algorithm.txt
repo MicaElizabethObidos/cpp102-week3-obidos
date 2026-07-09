@@ -3,3 +3,4 @@ Step 2: Input weekly budget
 Step 3: Input total expenses
 Step 4: Process remaining balance = weekly budget - total expenses
 Step 4: Display result
+Step 5: Stop

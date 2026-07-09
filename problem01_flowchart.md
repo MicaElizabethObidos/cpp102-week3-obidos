@@ -5,7 +5,6 @@ flowchart TD
     B --> D[weekly budget - total expenses]
   C --> D[weekly budget - total expenses]
   D --> E[remaining balance]
-  E --> F[output]
+  E --> F[=output]
   F --> G{END}
   ```
-  
