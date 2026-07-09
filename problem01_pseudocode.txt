@@ -1,0 +1,8 @@
+START 
+INPUT weekly budget
+INPUT total expenses
+PROCESS remaining balance = weekly budget - total expenses
+IF remaining balance = weekly budget - total expenses
+THEN remaining balance = output
+DISPLAY output
+END
